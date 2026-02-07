@@ -19,3 +19,4 @@ The purpose of this project is to practice and understand how HTML forms work.
 ## Technologies Used
 - HTML
 <img width="1818" height="1051" alt="Screenshot 2026-02-07 165509" src="https://github.com/user-attachments/assets/f2c1cb47-cace-4383-b20b-0bfca014b363" />
+<img width="1438" height="868" alt="Screenshot 2026-02-07 165533" src="https://github.com/user-attachments/assets/89adc07d-9d80-4ea1-8382-7075e340904e" />
